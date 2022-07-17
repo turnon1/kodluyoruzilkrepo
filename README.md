@@ -7,7 +7,7 @@
 
 ---
 
-![Resim](https://prnt.sc/5H8ngba5-mIF)
+![Resim](C:\Users\veyse\OneDrive\Masaüstü\Yazılım\QA\Patika GIT Ödev-1\1.jpg)
 
 ## Installation
 ---
