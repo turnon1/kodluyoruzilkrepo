@@ -7,7 +7,7 @@
 
 ---
 
-![Resim](C:\Users\veyse\OneDrive\Masaüstü\Yazılım\QA\Patika GIT Ödev-1\1.jpg)
+![Resim](https://i.hizliresim.com/g5jsc11.JPG)
 
 ## Installation
 ---
