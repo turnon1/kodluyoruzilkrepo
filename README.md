@@ -7,6 +7,8 @@
 
 ---
 
+![Resim](https://prnt.sc/LxBnLFv9RKa5)
+
 ## Installation
 ---
 
